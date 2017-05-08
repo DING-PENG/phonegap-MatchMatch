@@ -5,13 +5,13 @@
         xmlns:android   = "http://schemas.android.com/apk/res/android"
         id          = "com.gamingplatform.matchmatch"
         versionCode = "1"
-        version     = "0.0.1" >
+        version     = "0.0.2" >
     <!-- versionCode is optional and Android only:
       needs to be increased every time you submit a new APK version.
       see: http://developer.android.com/tools/publishing/versioning.html
     -->
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
-      <string>000</string>
+      <string>001</string>
     </gap:config-file>
 
     <content src="https://thematchmatch.com/?phonegapPlugins=v105" />
